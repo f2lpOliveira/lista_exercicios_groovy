@@ -1,5 +1,9 @@
 package exercicio.numero8
 
+/*
+ Escreva um programa que solicite ao usuário uma palavra e determine se é um palíndromo (ou seja, se pode ser lida da mesma forma da esquerda para a direita e da direita para a esquerda).
+ */
+
 void verificaPalindromo () {
 
     print "Digite uma palavra: "
